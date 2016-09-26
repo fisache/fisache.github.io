@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The only Wary We Save The Earth
+title: TOWWSTE
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
