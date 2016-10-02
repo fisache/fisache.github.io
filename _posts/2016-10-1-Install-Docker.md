@@ -95,7 +95,7 @@ Docker의 가장 큰장점은 DockerFile만 있으면 원하는 설정이 된 OS
 # DockerFile 만들기
 <pre>
 DockerFile을 처음부터 설정해보는 것도 도움이 되겠지만.. 그건 위험부담이 너무 크다.
-그래서 docker에서 제공해주는 ubuntu DockerFile을 수정해서 쓸거다.
+그래서 docker에서 제공해주는 ubuntu Dockerfile을 수정해서 쓸거다.
 </pre>
 ```sh
 git clone https://github.com/dockerfile/ubuntu.git
