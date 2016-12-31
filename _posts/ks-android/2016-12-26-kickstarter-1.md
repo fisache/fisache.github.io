@@ -71,4 +71,4 @@ ActivityResult 객체를 컴포넌트 간의 넘겨줄 일이 생기는 걸까
 모르겠지만 나중에 보면 또 이게 겁나 쩌는거일수도 있지
 </pre>
 
-<a href="https://github.com/fisache/ks-android-sample-1">전체 코드 링크</a>
+<a href="https://github.com/fisache-android-practice/ks-mvvm-activity/tree/basicmvvm">전체 코드 링크</a>
